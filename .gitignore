@@ -1,0 +1,8 @@
+# build artifacts
+*.o
+*.obj
+obj/
+bin/
+*.stackdump
+gui_log.txt
+gui_test.png
