@@ -104,3 +104,7 @@ snake_gui\snake_gui.exe
 
 - 仅供课程学习与交流使用。
 - emoji 由系统 Segoe UI Emoji 预渲染成 PNG，已随仓库打包，不依赖接收方字体。
+
+## 免安装版下载
+
+如果不想自己构建，可直接下载 [最新 Release](https://github.com/j-z-j/snake-game/releases/latest) 中的 `snake-game-portable.zip`。
